@@ -1,7 +1,7 @@
 
-import YouTubeDashboard from "./YoutubeDashboard";
+import VideoDashboard from "./YoutubeDashboard";
 export default function Home() {
   return (
-    <YouTubeDashboard />
+    <VideoDashboard />
   );
 }
